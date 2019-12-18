@@ -21,7 +21,7 @@ float armLengthL[] = new float[pointCount]; // line running through the anchor p
 float armLengthR[] = new float[pointCount]; // same as above
 float controlAngles[] = new float[pointCount]; // angle of the "arms" that run through the anchor points
 
-int counter = 0; // don't change this; used to stop at the desited number of iterations
+int counter = 0; // don't change this; used to stop at the desired number of iterations
 
 String infoText;
 
